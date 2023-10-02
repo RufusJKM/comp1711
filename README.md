@@ -3,3 +3,12 @@
 
 #### Author: Rufus Kitt
 
+Common Comands:
+
+pwd: print work directory - states which directory is being edited  
+ls: list all directories and files  
+touch: create new file
+cd: switch to directory of choice
+mkdir: make directory
+man: manual
+
