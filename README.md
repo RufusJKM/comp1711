@@ -3,7 +3,7 @@
 
 #### Author: Rufus Kitt
 
-Common Comands:
+## Common Comands:
 
 pwd: print work directory - states which directory is being edited  
 ls: list all directories and files  
@@ -12,3 +12,7 @@ cd: switch to directory of choice
 mkdir: make directory
 man: manual
 
+## saving
+git add (directory)
+git commit -m "sensible addition notes"
+git push
