@@ -1,0 +1,6 @@
+Functions need to be above main
+for switch casing:
+switch(var)
+case1:
+code code code
+break;
