@@ -11,8 +11,8 @@ int main() {
     int numSquares;
     scanf("%d", &numSquares);
 
-    for (int i = 1; i <= numSquares; i++){
-        fprintf(file, "%d\n", i*i);
+    for (float i = 1; i <= numSquares; i++){
+        fprintf(file, "%f\n", i*i);
     }
 
     fclose(file);
