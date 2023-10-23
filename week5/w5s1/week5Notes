@@ -1,0 +1,9 @@
+fopen creates a file and fclose closes a file
+
+fopen(filename, "w"); the w is a permission, w w+ a a+
+w opens a file and clears it if there is any present data or will create a new file if the ame doesnt exist
+
+fclose(filename)
+must close files after opening them as it saves them and stops them hgging resources
+
+write to files with fprintf
